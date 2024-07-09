@@ -1,4 +1,4 @@
-![](https://github.com/prasad639/prasad639/blob/main/web-design-2906159_1280.jpg)
+![](https://github.com/prasad639/prasad639/blob/main/%E2%80%94Pngtree%E2%80%94technology%20background%20binary%20computer%20code_1264149.png)
 <h1 align="center">Hi 👋, I'm Prasad Shelke</h1>
 <h3 align="center">A passionate Software Engineering student from India</h3>
 <img align = "right"  alt = "gif"  width = "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
